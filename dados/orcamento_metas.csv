@@ -1,0 +1,37 @@
+mes,indicador,tipo,valor,unidade,versao
+2026-04,Receita Operacional,caixa,10779000.00,BRL,Plano do exercício v1
+2026-05,Receita Operacional,caixa,11043000.00,BRL,Plano do exercício v1
+2026-06,Receita Operacional,caixa,11955000.00,BRL,Plano do exercício v1
+2026-04,Receita Financeira,caixa,762000.00,BRL,Plano do exercício v1
+2026-05,Receita Financeira,caixa,717000.00,BRL,Plano do exercício v1
+2026-06,Receita Financeira,caixa,699000.00,BRL,Plano do exercício v1
+2026-04,Outras Receitas,caixa,0.00,BRL,Plano do exercício v1
+2026-05,Outras Receitas,caixa,0.00,BRL,Plano do exercício v1
+2026-06,Outras Receitas,caixa,0.00,BRL,Plano do exercício v1
+2026-04,Impostos,caixa,-933000.00,BRL,Plano do exercício v1
+2026-05,Impostos,caixa,-954000.00,BRL,Plano do exercício v1
+2026-06,Impostos,caixa,-1038000.00,BRL,Plano do exercício v1
+2026-04,Despesas com Pessoas,caixa,-9384000.00,BRL,Plano do exercício v1
+2026-05,Despesas com Pessoas,caixa,-9810000.00,BRL,Plano do exercício v1
+2026-06,Despesas com Pessoas,caixa,-9564000.00,BRL,Plano do exercício v1
+2026-04,Comissao e Bonificacao,caixa,-1200000.00,BRL,Plano do exercício v1
+2026-05,Comissao e Bonificacao,caixa,-105000.00,BRL,Plano do exercício v1
+2026-06,Comissao e Bonificacao,caixa,-105000.00,BRL,Plano do exercício v1
+2026-04,Marketing e Vendas,caixa,-714000.00,BRL,Plano do exercício v1
+2026-05,Marketing e Vendas,caixa,-714000.00,BRL,Plano do exercício v1
+2026-06,Marketing e Vendas,caixa,-714000.00,BRL,Plano do exercício v1
+2026-04,Clientes,caixa,-309000.00,BRL,Plano do exercício v1
+2026-05,Clientes,caixa,-315000.00,BRL,Plano do exercício v1
+2026-06,Clientes,caixa,-330000.00,BRL,Plano do exercício v1
+2026-04,G&A,caixa,-1164000.00,BRL,Plano do exercício v1
+2026-05,G&A,caixa,-1164000.00,BRL,Plano do exercício v1
+2026-06,G&A,caixa,-1164000.00,BRL,Plano do exercício v1
+2026-04,Technology,caixa,-1251000.00,BRL,Plano do exercício v1
+2026-05,Technology,caixa,-405000.00,BRL,Plano do exercício v1
+2026-06,Technology,caixa,-501000.00,BRL,Plano do exercício v1
+2026-04,Capex e M&A,caixa,-945000.00,BRL,Plano do exercício v1
+2026-05,Capex e M&A,caixa,-9000.00,BRL,Plano do exercício v1
+2026-06,Capex e M&A,caixa,-9000.00,BRL,Plano do exercício v1
+2026-04,Novo MRR vendido,meta_comercial,309000.00,BRL,Plano do exercício v1
+2026-05,Novo MRR vendido,meta_comercial,309000.00,BRL,Plano do exercício v1
+2026-06,Novo MRR vendido,meta_comercial,618000.00,BRL,Plano do exercício v1

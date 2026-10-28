@@ -1,0 +1,148 @@
+conta_contabil,grupo_contabil,entra_resultado
+1.1.1.02.000003,Patrimonial,0
+1.1.1.02.000009,Patrimonial,0
+1.1.1.02.000010,Patrimonial,0
+1.1.1.02.000011,Patrimonial,0
+1.1.1.03.000001,Patrimonial,0
+1.1.1.03.000003,Patrimonial,0
+1.1.1.03.000004,Patrimonial,0
+1.1.1.03.000005,Patrimonial,0
+1.1.1.03.000007,Patrimonial,0
+1.1.2.01.000001,Patrimonial,0
+1.1.2.01.000002,Patrimonial,0
+1.1.3.05.000001,Patrimonial,0
+1.1.3.05.000003,Patrimonial,0
+1.1.3.05.000004,Patrimonial,0
+1.1.3.05.000005,Patrimonial,0
+1.1.3.05.000008,Patrimonial,0
+1.1.3.06.000001,Patrimonial,0
+1.1.3.06.000003,Patrimonial,0
+1.1.3.08.000003,Patrimonial,0
+1.1.3.08.000006,Patrimonial,0
+1.1.3.08.000012,Patrimonial,0
+1.1.3.08.000013,Patrimonial,0
+1.1.3.08.000016,Patrimonial,0
+1.1.3.08.000017,Patrimonial,0
+1.1.3.08.000018,Patrimonial,0
+1.1.3.10.000001,Patrimonial,0
+1.1.6.01.000001,Patrimonial,0
+1.1.6.01.000003,Patrimonial,0
+1.2.2.06.000001,Patrimonial,0
+1.2.3.01.000006,Patrimonial,0
+1.2.3.01.000007,Patrimonial,0
+1.2.3.01.000008,Patrimonial,0
+1.2.3.06.000001,Patrimonial,0
+1.2.4.02.000001,Patrimonial,0
+1.2.4.05.000001,Patrimonial,0
+1.2.4.07.000002,Patrimonial,0
+1.2.4.07.000008,Patrimonial,0
+1.2.5.02.000001,Patrimonial,0
+1.2.5.02.000002,Patrimonial,0
+1.2.5.03.000001,Patrimonial,0
+1.2.5.03.000002,Patrimonial,0
+2.1.3.01.000001,Patrimonial,0
+2.1.4.01.000003,Patrimonial,0
+2.1.4.01.000008,Patrimonial,0
+2.1.4.01.000009,Patrimonial,0
+2.1.4.01.000010,Patrimonial,0
+2.1.4.01.000012,Patrimonial,0
+2.1.4.01.000013,Patrimonial,0
+2.1.5.01.000001,Patrimonial,0
+2.1.5.01.000004,Patrimonial,0
+2.1.5.01.000008,Patrimonial,0
+2.1.5.01.000009,Patrimonial,0
+2.1.5.02.000001,Patrimonial,0
+2.1.5.02.000002,Patrimonial,0
+2.1.5.02.000004,Patrimonial,0
+2.1.5.03.000001,Patrimonial,0
+2.1.5.03.000002,Patrimonial,0
+2.1.5.03.000003,Patrimonial,0
+2.1.5.03.000004,Patrimonial,0
+2.1.5.03.000005,Patrimonial,0
+2.1.5.03.000006,Patrimonial,0
+2.1.6.01.000001,Patrimonial,0
+2.1.6.02.000001,Patrimonial,0
+2.1.6.02.000002,Patrimonial,0
+2.1.6.02.000004,Patrimonial,0
+2.1.6.02.000005,Patrimonial,0
+2.2.1.09.000001,Patrimonial,0
+2.3.1.01.000001,Patrimonial,0
+2.3.3.01.000002,Patrimonial,0
+2.3.3.01.000006,Patrimonial,0
+2.3.4.01.000001,Patrimonial,0
+3.1.1.02.000001,Receita bruta,1
+3.1.2.03.000003,Deduções da receita,1
+3.1.2.03.000004,Deduções da receita,1
+3.1.2.03.000005,Deduções da receita,1
+3.1.3.01.000001,Receitas financeiras,1
+3.1.3.01.000002,Receitas financeiras,1
+3.1.3.01.000003,Receitas financeiras,1
+3.1.4.03.000001,Outras receitas,1
+3.1.5.01.000001,Outras receitas,1
+4.1.1.02.000001,Pessoas,1
+4.1.1.02.000003,Pessoas,1
+4.1.1.02.000004,Pessoas,1
+4.1.1.02.000005,Pessoas,1
+4.1.1.02.000006,Pessoas,1
+4.1.1.02.000007,Pessoas,1
+4.1.1.02.000008,Pessoas,1
+4.1.1.02.000009,Pessoas,1
+4.1.1.02.000011,Pessoas,1
+4.1.1.02.000012,Pessoas,1
+4.1.1.02.000013,Pessoas,1
+4.1.1.02.000014,Pessoas,1
+4.1.1.02.000015,Pessoas,1
+4.1.2.05.000001,Demais custos e despesas,1
+4.1.2.05.000002,Demais custos e despesas,1
+4.1.6.01.000001,Serviços a clientes,1
+4.1.6.01.000002,Marketing e eventos,1
+4.2.1.04.000001,Demais custos e despesas,1
+4.2.1.05.000001,Demais custos e despesas,1
+4.2.1.05.000002,Demais custos e despesas,1
+4.2.1.05.000003,Demais custos e despesas,1
+4.2.1.05.000004,Demais custos e despesas,1
+4.2.2.01.000001,Pessoas,1
+4.2.2.01.000003,Pessoas,1
+4.2.2.01.000004,Pessoas,1
+4.2.2.01.000005,Pessoas,1
+4.2.2.01.000006,Pessoas,1
+4.2.2.01.000007,Pessoas,1
+4.2.2.01.000008,Pessoas,1
+4.2.2.01.000009,Pessoas,1
+4.2.2.01.000010,Pessoas,1
+4.2.2.01.000012,Pessoas,1
+4.2.2.01.000013,Pessoas,1
+4.2.2.01.000015,Pessoas,1
+4.2.2.01.000016,Pessoas,1
+4.2.2.01.000017,Pessoas,1
+4.2.2.02.000002,Demais custos e despesas,1
+4.2.2.03.000001,Demais custos e despesas,1
+4.2.2.03.000002,Demais custos e despesas,1
+4.2.2.03.000005,Demais custos e despesas,1
+4.2.2.03.000008,Demais custos e despesas,1
+4.2.2.04.000005,Demais custos e despesas,1
+4.2.2.04.000006,Demais custos e despesas,1
+4.2.2.04.000008,Demais custos e despesas,1
+4.2.2.04.000009,Demais custos e despesas,1
+4.2.2.04.000010,Depreciação e amortização,1
+4.2.2.04.000011,Demais custos e despesas,1
+4.2.2.04.000012,Demais custos e despesas,1
+4.2.2.04.000016,Demais custos e despesas,1
+4.2.2.04.000017,Tecnologia,1
+4.2.2.04.000018,Demais custos e despesas,1
+4.2.2.04.000023,Marketing e eventos,1
+4.2.2.04.000025,Demais custos e despesas,1
+4.2.2.04.000026,Demais custos e despesas,1
+4.2.2.04.000027,Demais custos e despesas,1
+4.2.2.04.000029,Demais custos e despesas,1
+4.2.2.04.000031,Demais custos e despesas,1
+4.2.2.04.000034,Demais custos e despesas,1
+4.2.2.04.000035,Demais custos e despesas,1
+4.2.2.04.000037,Demais custos e despesas,1
+4.2.2.05.000001,Despesas financeiras,1
+4.2.2.05.000004,Despesas financeiras,1
+4.2.2.05.000009,Despesas financeiras,1
+4.2.2.05.000011,Despesas financeiras,1
+4.3.1.06.000001,Provisões judiciais,1
+4.3.1.07.000001,Depreciação e amortização,1
+4.3.1.07.000002,Depreciação e amortização,1

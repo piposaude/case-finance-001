@@ -1,0 +1,35 @@
+categoria_cf,grupo_gerencial,tratamento
+Accounting Monthly & Audit,G&A,resultado
+Adiantamentos para Clientes,Adiantamentos a Clientes,fora_resultado
+Awards for nomination of companies,Comissao e Bonificacao,resultado
+"Benefícios, Compensation e Encargos",Despesas com Pessoas,resultado
+CHECK - RECEITA OPERACIONAL,Receita Operacional,resultado
+Capex,Capex e M&A,fora_resultado
+Commission,Comissao e Bonificacao,resultado
+Commission FC,Comissao e Bonificacao,resultado
+Consultings,G&A,resultado
+Customer service expenses,Clientes,resultado
+D&O,G&A,resultado
+Devolução de receitas,Clientes,resultado
+Devoluções de Clientes,Adiantamentos a Clientes,fora_resultado
+Events,Marketing e Vendas,resultado
+Financial Expenses,G&A,resultado
+ISS paid,Impostos,resultado
+Legal,G&A,resultado
+M&A - Effective payment,Capex e M&A,fora_resultado
+Marketing Expenses,Marketing e Vendas,resultado
+Office,G&A,resultado
+Offsite,G&A,resultado
+Other expenses,G&A,resultado
+Outras Receitas,Outras Receitas,resultado
+PIS / COFINS paid,Impostos,resultado
+Partnerships,G&A,resultado
+Receita Financeira,Receita Financeira,resultado
+Recision,Despesas com Pessoas,resultado
+Refund for employees,Despesas com Pessoas,resultado
+Rental expenses,G&A,resultado
+Sem categoria,Sem classificação,fora_resultado
+Subsidized services,Clientes,resultado
+Taxes over suppliers,G&A,resultado
+Technology,Technology,resultado
+Travel expenses - Others,G&A,resultado
