@@ -38,7 +38,7 @@ Prepare uma entrega que responda às quatro perguntas:
 
 **A entrega precisa ser compreensível por uma pessoa, sem auxílio de IA para interpretar o material.** Organize a apresentação, as análises de apoio e suas conclusões para uma leitura clara e autossuficiente.
 
-Inclua os arquivos e as instruções necessários para reproduzir a análise, seguindo o [README de entrega](README.md#como-contribuir-e-entregar).
+Organize a resposta em um **repositório privado na sua conta pessoal do GitHub** e compartilhe com os avaliadores. Inclua os arquivos e as instruções necessários para reproduzir a análise e envie o link, seguindo o [README de entrega](README.md#como-contribuir-e-entregar).
 
 ## Tempo e apresentação
 
